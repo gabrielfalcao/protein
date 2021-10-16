@@ -1,0 +1,5 @@
+- https://agent-hunt.medium.com/hello-world-custom-react-renderer-9a95b7cd04bc
+- - https://www.velotio.com/engineering-blog/react-fiber-algorithm
+- - - https://github.com/koba04/react-fiber-resources
+- - - - https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec
+- - - - - https://pomb.us/build-your-own-react/
